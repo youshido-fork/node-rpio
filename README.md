@@ -267,6 +267,7 @@ Valid options:
 
 * `gpio`: use the Broadcom GPIOxx naming
 * `physical`: use the physical P01-P40 header layout
+* `raw`: use pins as is, without additional handling(use wisely, may destroy universe)
 
 Examples:
 
